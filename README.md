@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react,ML & nodejs**
 
-- 💬 Ask me about **react & nodejs**
+- 💬 Ask me about **java & python**
 
 - 📫 How to reach me **eshanravindu17@gamil.com**
 
