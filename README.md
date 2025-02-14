@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/eshan-ravindu-a56978299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-ravindu-a56978299" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/eshan-ravindu-a56978299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-ravindu-a56978299" height="30" width="40" /></a> -->
 <a href="https://stackoverflow.com/users/24464077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24464077" height="30" width="40" /></a>
 <a href="https://fb.com/eshan.ravindu.902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan.ravindu.902" height="30" width="40" /></a>
 <a href="https://instagram.com/eshan_ravindu.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan_ravindu.17" height="30" width="40" /></a>
